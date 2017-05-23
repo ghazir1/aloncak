@@ -1,0 +1,2 @@
+# aloncak
+script safelink aloncak
